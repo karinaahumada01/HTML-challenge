@@ -55,3 +55,9 @@ The data is analyzed to answer:
 		-part_1_mars_news.ipynb
 		-part_2_mars_weather.ipynb
 	4. Execute the cells in the notebooks to perform scraping and analysis.
+
+ ### References 
+
+  ChatGPT was used for README outline and format, and troubleshooting errors for this assignment.
+  
+  OpenAI. (October, 2024). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/
