@@ -6,7 +6,7 @@
 
 	1. Mars News Scraping: Extracts titles and preview texts from the Mars News website.
 
-	2. Mars Weather Data Analysis: Scrapes weather data from the Mars Temperature Data site and performs analysis to gain 		insights on temperature and atmospheric pressure.
+	2. Mars Weather Data Analysis: Scrapes weather data from the Mars Temperature Data site and performs analysis to gain insights on temperature and atmospheric pressure.
 
 ## Repository Contents
 
@@ -17,7 +17,7 @@
 
 ## Part 1: Mars News Scraping
 
-	This part uses Splinter to automate browsing and BeautifulSoup to extract news article titles and preview text from the 	Mars News Site. The extracted data is stored in a list 	of dictionaries, with each dictionary containing:
+	This part uses Splinter to automate browsing and BeautifulSoup to extract news article titles and preview text from the Mars News Site. The extracted data is stored in a list 	of dictionaries, with each dictionary containing:
 
 {
   'title': "News Title",
